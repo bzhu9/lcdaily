@@ -6,3 +6,4 @@ nov 3: 2131 longest palindrome by concatenating two letter words\
 nov 4: 345 reverse vowels of a string
 nov 5: 212 word search ii
 nov 6: 899 orderly queue
+nov 7: 1323 maximum 69 number
