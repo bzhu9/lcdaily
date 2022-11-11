@@ -10,3 +10,4 @@ nov 7: 1323 maximum 69 number\
 nov 8: 1544 make the string great\
 nov 9: 901 online stock span\
 nov 10: 1047 remove all adjacent duplicates in string\
+nov 11: 26 remove duplicates from sorted array\
