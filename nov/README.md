@@ -13,4 +13,4 @@ nov 10: 1047 remove all adjacent duplicates in string\
 nov 11: 26 remove duplicates from sorted array\
 nov 12: 295 find median from data stream\
 nov 13: 151 reverse words in a string\
-
+nov 14: 947 most stones removed with same row or column\
