@@ -15,3 +15,4 @@ nov 12: 295 find median from data stream\
 nov 13: 151 reverse words in a string\
 nov 14: 947 most stones removed with same row or column\
 nov 15: 222 count complete tree nodes\
+nov 16: 374 guess number higher or lower\
