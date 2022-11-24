@@ -19,3 +19,4 @@ nov 16: 374 guess number higher or lower\
 nov 17: 223 rectangle area\
 nov 18: 263 ugly number\
 nov 19: 587 erect the fence\
+nov 24: 79 word search\
